@@ -1,8 +1,8 @@
 # Bookshelf App
 Frontend application for Bookshelf API.
 
-## Information
-[View](https://github.com/achmadhadikurnia/belajar-membuat-front-end-web-untuk-pemula-dicoding-certificate)
+## Class
+[Belajar Membuat Front-End Web untuk Pemula](https://github.com/achmadhadikurnia/belajar-membuat-front-end-web-untuk-pemula-dicoding-certificate)
 
 ## Screenshots
 ![screenshot_1.png](/screenshots/screenshot_1.png)
